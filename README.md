@@ -1,6 +1,6 @@
 # Olá, eu sou Renato Weliton 👋
 
-<img src="1771294759129.png" alt="Renato Weliton" width="130" height="150" style="border-radius: 50%;">
+<img src="IMG-20260217-WA0000.jpg" alt="Renato Weliton" width="130" height="150" style="border-radius: 50%;">
 
 🖥️ **Desenvolvedor** apaixonado por tecnologia e focado em construir aplicações com **JavaScript**.
 
