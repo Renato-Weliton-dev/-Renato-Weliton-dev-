@@ -18,6 +18,6 @@ Sempre buscando aplicar o que aprendo em projetos práticos. Confira meus reposi
 
 ---
 ### 🤝 Conecte-se comigo
-* 💼 [LinkedIn](Link-do-seu-LinkedIn)
+* 💼 [LinkedIn](linkedin.com/in/renato-weliton-812825321)
 * ✉️ [Email](elitonnrenato@gmail.com)
 
