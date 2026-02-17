@@ -18,4 +18,4 @@ Sempre buscando aplicar o que aprendo em projetos práticos. Confira meus reposi
 ### 🤝 Conecte-se comigo
 * 💼 [LinkedIn](Link-do-seu-LinkedIn)
 * ✉️ [Email](elitonnrenato@gmail.com)
-<img src="1771294759129.png" alt="Renato Weliton" width="150" height="150" style="border-radius: 50%;">
+<img src="1771294759129.png" alt="Renato Weliton" width="150" height="140" style="border-radius: 50%;">
